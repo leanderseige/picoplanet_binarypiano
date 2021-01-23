@@ -14,6 +14,8 @@ PicoPlanet experiment #4: a binary piano!
 111 = B/H
 ```
 
+Wiring like in https://github.com/leanderseige/picoplanet_polysynth
+
 check out the PicoPlanets: https://github.com/bleeptrack/picoplanet
 
 tone frequencies from https://gist.github.com/i-Robi/8684800 (Thanks!)
