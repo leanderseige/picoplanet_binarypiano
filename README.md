@@ -12,5 +12,7 @@ PicoPlanet experiment #4: a binary piano!
 110 = A
 111 = B/H
 
+check out the PicoPlanets: https://github.com/bleeptrack/picoplanet
+
 tone frequencies from https://gist.github.com/i-Robi/8684800 (Thanks!)
 
