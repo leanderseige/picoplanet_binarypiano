@@ -52,3 +52,4 @@ while True:
         ledR.value = True
         ledG.value = True
         ledB.value = True
+    time.sleep(.01)
