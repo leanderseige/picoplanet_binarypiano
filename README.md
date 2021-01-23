@@ -2,6 +2,7 @@
 
 PicoPlanet experiment #4: a binary piano!
 
+## video on youtube:
 [![Video](https://img.youtube.com/vi/c3NqgCcYP1c/0.jpg)](https://www.youtube.com/watch?v=c3NqgCcYP1c)
 
 ```
@@ -14,7 +15,7 @@ PicoPlanet experiment #4: a binary piano!
 111 = B/H
 ```
 
-Wiring like in https://github.com/leanderseige/picoplanet_polysynth
+wiring like in https://github.com/leanderseige/picoplanet_polysynth
 
 check out the PicoPlanets: https://github.com/bleeptrack/picoplanet
 
